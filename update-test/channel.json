@@ -1,0 +1,9 @@
+{
+  "channel": "test",
+  "label": "TEST",
+  "version": "test-v44.0",
+  "clientZip": "https://github.com/Mu-Destiny-Zone/mudz-client/releases/download/test-v44.0/MuDestinyZone.zip",
+  "clientZipSha256": null,
+  "clientZipBytes": null,
+  "clientIndex": "client-index.json"
+}

@@ -3,7 +3,7 @@
   "label": "TEST",
   "version": "test-v44.0",
   "clientZip": "https://github.com/Mu-Destiny-Zone/mudz-client/releases/download/test-v44.0/MuDestinyZone.zip",
-  "clientZipSha256": null,
-  "clientZipBytes": null,
+  "clientZipSha256": "af14374d5f426786c7fd2421dd08126aef7d54caef870b3f8fcdb5903d506711",
+  "clientZipBytes": 527402590,
   "clientIndex": "client-index.json"
 }

@@ -1,1 +1,74 @@
-[]
+[
+  {
+    "path": "Data/Custom/ScriptImages/BossLifeBar.ozt",
+    "size": 158448,
+    "hash": "29efc20bd68ebdef24046a85d43d098a",
+    "modified": "2026-09-22T19:28:14+03:00"
+  },
+  {
+    "path": "Data/Custom/ScriptImages/DQChestClosed.ozt",
+    "size": 25648,
+    "hash": "8378178c200862059271fe862888969a",
+    "modified": "2026-09-22T19:28:14+03:00"
+  },
+  {
+    "path": "Data/Custom/ScriptImages/DQChestOpened.ozt",
+    "size": 25648,
+    "hash": "c178c9d7adff34c952bd39eca3c558a7",
+    "modified": "2026-09-22T19:28:14+03:00"
+  },
+  {
+    "path": "Data/Custom/ScriptImages/DQDot.ozt",
+    "size": 148,
+    "hash": "9df3dc69d0c6fb4a260cab36f9e18b14",
+    "modified": "2026-09-22T19:28:14+03:00"
+  },
+  {
+    "path": "Data/Custom/ScriptImages/DQbtnClaim.ozt",
+    "size": 16848,
+    "hash": "f1be42ace972d6d742a2f58a6da2a78c",
+    "modified": "2026-09-22T19:28:14+03:00"
+  },
+  {
+    "path": "Data/Custom/ScriptImages/DQbtnCompleted.ozt",
+    "size": 16848,
+    "hash": "32110c4daabcbd57f1b5157a2fabedcb",
+    "modified": "2026-09-22T19:28:14+03:00"
+  },
+  {
+    "path": "Data/Custom/ScriptImages/DQbtnInProgress.ozt",
+    "size": 16848,
+    "hash": "243b4915e271318177a115de4a51600c",
+    "modified": "2026-09-22T19:28:14+03:00"
+  },
+  {
+    "path": "Data/Custom/ScriptImages/DailyQuestText.ozt",
+    "size": 78448,
+    "hash": "b942cb55e72dc732a8ee27558460aa56",
+    "modified": "2026-09-22T19:28:14+03:00"
+  },
+  {
+    "path": "Data/Custom/ScriptImages/DailyQuestWindow.ozt",
+    "size": 425648,
+    "hash": "1f98e18f75f92984b757ed8ea01aa227",
+    "modified": "2026-09-22T19:28:14+03:00"
+  },
+  {
+    "path": "Data/Custom/ScriptImages/DeathMsg.ozt",
+    "size": 73848,
+    "hash": "daeeb43bc2f1c6672c9b455814c54ee4",
+    "modified": "2026-09-22T19:28:14+03:00"
+  },
+  {
+    "path": "Data/Custom/ScriptImages/btn.ozt",
+    "size": 28596,
+    "hash": "85baadc8b66433eee23e046476413895",
+    "modified": "2026-09-22T19:28:14+03:00"
+  },
+  {
+    "path": "Data/Custom/ScriptImages/selectServer.ozt",
+    "size": 7048,
+    "hash": "0b1facc056777b51f413afa4fe13af3e",
+    "modified": "2026-09-22T19:28:14+03:00"
+  }
+]
